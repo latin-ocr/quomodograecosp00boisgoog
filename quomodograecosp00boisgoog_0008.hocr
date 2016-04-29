@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quomodograecosp00boisgoog_0008.png"; bbox 0 0 3000 5220; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 579 1973 821 2045">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 579 1973 821 2045">
+     <span class='ocr_line' id='line_1_1' title="bbox 579 1973 821 2045; baseline 0.004 -10"><span class='ocrx_word' id='word_1_1' title='bbox 579 1973 605 2045; x_wconf 85' lang='lat' dir='ltr'><strong>Q</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 617 1973 821 2036; x_wconf 85' lang='lat' dir='ltr'>OOOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 92 2093 1136 2325">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 92 2093 1136 2365">
+     <span class='ocr_line' id='line_1_2' title="bbox 92 2093 1136 2325; baseline 0.002 -5"><span class='ocrx_word' id='word_1_3' title='bbox 92 2093 95 2098; x_wconf 24' lang='lat'><em>¹</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 185 2190 187 2195; x_wconf 90' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 278 2100 688 2325; x_wconf 73' lang='lat' dir='ltr'>GRAEcos</span> <span class='ocrx_word' id='word_1_6' title='bbox 757 2194 1136 2325; x_wconf 70' lang='grc' dir='ltr'>ΡοΕΤΑε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 2461 1205 2561">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 2461 1205 2561">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 2461 1205 2561; baseline -0.005 -27"><span class='ocrx_word' id='word_1_7' title='bbox 392 2463 575 2534; x_wconf 74' lang='grc' dir='ltr'>υυυυυυ</span> <span class='ocrx_word' id='word_1_8' title='bbox 581 2462 604 2533; x_wconf 89' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_9' title='bbox 629 2461 1022 2532; x_wconf 73' lang='lat' dir='ltr'><strong>TRANSTULERH?</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1202 2556 1205 2561; x_wconf 7' lang='grc' dir='ltr'><strong><em>ἢ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1504 5220">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1504 5220">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1504 5220; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1504 5220; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
